@@ -1,3 +1,12 @@
+Installs:
+
+//  A component based css in JS library
+- npm install styled-components
+// Adding a CSS reset
+- npm install @atlaskit/css-reset
+// DnD
+- npm install react-beautiful-dnd
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
